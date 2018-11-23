@@ -1,0 +1,4 @@
+#注意环境变量要大写
+graceful:
+  waitTime: ${GRACEFUL.WAITTIME:30}
+
